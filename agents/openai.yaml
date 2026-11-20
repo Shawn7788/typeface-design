@@ -1,0 +1,4 @@
+interface:
+  display_name: "Typeface Design 字體設計"
+  short_description: "設計原創拉丁展示字體，從香港題材、字形與字距校樣到字樣海報及匯報"
+  default_prompt: "用 $typeface-design 幫我檢視 Assignment 3 的草圖，找出能延伸到整套字體的特徵，並指出下一輪最值得修改的字。"
